@@ -1,0 +1,52 @@
+img{
+    margin-left: 50px;
+    margin-top: 100px;
+    /* filter: none; */
+    /* filter: grayscale(0%); */
+    /* represents original image */
+    /* filter: grayscale(100%); */
+    /* represents complete gray color image */
+    /* filter: blur(4px); */
+    /* filter: brightness(0%); */
+    /* image is full black */
+    /* filter: brightness(100%); */
+    /* represents full image */
+    /* filter: contrast(0%); */
+    /* image contrast level is 0 */
+    /* filter: contrast(100%); */
+    /* rep. default image */
+    /* filter:drop-shadow(20px 20px 20px green  ); */
+    /* first positive values is horizontal right side color and negative value is left side color */
+    /* second value is vertical bottom color and negative value is top color  */
+    /* third value is blur value */
+    /* filter: hue-rotate(90deg); */
+    /* image color is green */
+    /* filter: hue-rotate(-90deg); */
+    /* image color is violet */
+    /* filter:hue-rotate(0deg) */
+    /* represents normal or default image */
+    /* 0 deg to 360 deg values and negative values */
+    /* filter:invert(0) */
+    /* rep. default image */
+    /* filter:invert(100%) */
+    /* image is fully inverted */
+    /* filter: opacity(0%); */
+    /* rep. image is completly transparent or no view of image */
+    /* filter: opacity(50%); */
+    /* rep. half transparent image */
+    /* filter:opacity(100%) */
+    /* rep. default original image */
+    /* filter:saturate(0%) */
+    /* rep. un-saturated image */
+    /* filter: saturate(100%); */
+    /* rep. default image */
+    /* 0 - 100% is image color level */
+    /* filter: sepia(0%); */
+    /* rep. default original image */
+    /* filter:sepia(100%) */
+    /* rep. sepia (light black color image)image */
+    /* filter:initial; */
+    /* image set the initial value */
+    /* filter: inherit; */
+    /* image set the parent elemet filter property */
+}
